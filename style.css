@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/500/170/non_2x/simple-hearts-seamless-pattern-on-pink-background-14-february-wallpaper-free-vector.jpg");
+}
+h1{
+    font-size: 70px;
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    width: 1140px;
+    height: 780px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.contenedorButon{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+
+.ButtonSi{
+    border: none;
+    background-color: forestgreen;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    margin-top: 25%;
+    margin-right: 10%;
+    margin-left: 32%;
+    border-radius: 10px;
+}
+.ButtonNo{
+    border: none;
+    background-color: red;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
